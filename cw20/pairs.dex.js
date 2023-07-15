@@ -435,11 +435,6 @@ module.exports = {
       type: "xyk",
       assets: ["uusd", "terra1kn85pdmrhhk2upjj8hf97lx3w3jg6gyzasyksp"],
     },
-    terra1wfjxjjss5g78lp6wxrkvj2cjq34lxdnz7rswlt: {
-      dex: "terraswap",
-      type: "xyk",
-      assets: ["uusd", "terra1x62dfgzrsksyemwuljhw9x0qcxefd3tpp4ued8"],
-    },
   },
   classic: {
     terra18dq84qfpz267xuu0k47066svuaez9hr4xvwlex: {
@@ -876,11 +871,6 @@ module.exports = {
       dex: "astroport",
       type: "xyk",
       assets: ["uusd", "terra1kn85pdmrhhk2upjj8hf97lx3w3jg6gyzasyksp"],
-    },
-    terra1wfjxjjss5g78lp6wxrkvj2cjq34lxdnz7rswlt: {
-      dex: "terraswap",
-      type: "xyk",
-      assets: ["uusd", "terra1x62dfgzrsksyemwuljhw9x0qcxefd3tpp4ued8"],
     },
   },
   testnet: {},
