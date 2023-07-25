@@ -3106,5 +3106,11 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/Y-Foundry-Dao/brand-assets/main/contract/pisco-1/cw20-yfd.svg",
       decimals: 6,
     },
+    terra132xampf3efc4ct8952jy9u93cqvrhmfr46r3j62zvl9486d27mgs55kfhf: {
+      protocol: "KANDIS LIQUIDITY TOKEN",
+      symbol: "KLT",
+      token: "terra132xampf3efc4ct8952jy9u93cqvrhmfr46r3j62zvl9486d27mgs55kfhf",
+      icon: "https://i.ibb.co/GC2qYmj/Logo.png",
+      decimals: 6,
   },
 };
